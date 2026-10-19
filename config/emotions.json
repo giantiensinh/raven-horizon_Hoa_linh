@@ -1,0 +1,8 @@
+{
+  "note": "Rigid preview channels only. Not Mesh Avatar Studio rig fields. Values are clamped in src/avatar/limits.ts. Blink layers, vowel mouths and mesh warp are unsupported and omitted.",
+  "neutral": { "swayDeg": 0, "bobPx": 0, "shiftXPx": 0 },
+  "happy": { "swayDeg": 0.35, "bobPx": -1.4, "shiftXPx": 0 },
+  "sad": { "swayDeg": -0.25, "bobPx": 2, "shiftXPx": 0 },
+  "angry": { "swayDeg": 0.1, "bobPx": 1, "shiftXPx": 0 },
+  "surprised": { "swayDeg": 0.2, "bobPx": -2.2, "shiftXPx": 0 }
+}

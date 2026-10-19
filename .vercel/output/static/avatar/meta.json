@@ -1,0 +1,8 @@
+{
+  "matting": "rembg session isnet-anime",
+  "source_px": [932, 1688],
+  "bust_px": [871, 938],
+  "upscale": 1,
+  "eye_width_px_estimate": 45,
+  "mouth": { "x": 0.5, "y": 0.305 }
+}

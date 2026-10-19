@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Hoa Linh",
+      "hasCanvas": false,
+      "bodyTextLen": 407,
+      "bodyTextHash": "125180b8fc5d2e68d7596323d2485ed91ad754fb9bbe3128aabf22a690446e0b",
+      "bodyTextPrefix": "PHÒNG LIVESTREAM Hoa Linh Nghỉ · neutral Dừng khẩn Ảnh đã tách n",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Hoa Linh",
+      "hasCanvas": false,
+      "bodyTextLen": 407,
+      "bodyTextHash": "125180b8fc5d2e68d7596323d2485ed91ad754fb9bbe3128aabf22a690446e0b",
+      "bodyTextPrefix": "PHÒNG LIVESTREAM Hoa Linh Nghỉ · neutral Dừng khẩn Ảnh đã tách n",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
